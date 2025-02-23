@@ -276,12 +276,12 @@
 		},
 		{
 			"Name": "DTBPJson",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/48b9478c7f9d47c09c830e2c31818fd1"
 		},
 		{
 			"Name": "JsonXmlHelper",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/69f737d5e17041079d05044e705f4bee"
 		},
 		{
@@ -295,7 +295,7 @@
 		},
 		{
 			"Name": "DataTableFunctionLibrary",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4659996081164e1690f64d84d91fe821"
 		},
 		{
